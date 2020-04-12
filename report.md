@@ -2,7 +2,7 @@
 
 The objective of this project is to train a reinforcement learning agent to navigate in a given (virtual) 2D world contains yellow and blue bananas.
 The agent is supposed to collect as many yellow bananas as possible while avoiding blue bananas. 
-A value based approach is used to learn the optimal using Deep Q-learning that combine:
+A value based approach is used to learn the optimal policy using Deep Q-learning that combine:
 - Q-learning algorithm which is an offline policy learning. 
 - Deep neural network to act as Q-table approximation and learn state-action mapping.
 
