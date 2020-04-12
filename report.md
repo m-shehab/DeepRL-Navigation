@@ -13,7 +13,7 @@ The adopted algorithm includes two improvements to the vanilla Deep Q-learning n
 These changes were introduced in ["Human-level control through deep reinforcement learning"](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) paper
 
 ## Learning Algorithm 
-The implementation od DQN agent is organized in three main files:  
+The implementation of DQN agent is organized in three main files:  
 - `Navigation.ipynb` where the environment setting, agent initalization, and traingin management are executed. 
 - `dqn_agent.py` where the learning agent is defined
 - `model.py` where the neural network is defined 
